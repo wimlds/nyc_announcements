@@ -50,7 +50,8 @@ We have a Slack team for female and non-binary members of WiMLDS (all chapters f
 ## WiMLDS Website
 For more information, visit our website at:  http://wimlds.org
 
-
+## Contact Us
+Email us at:  nyc@wimlds.org
 
 
 

@@ -21,10 +21,11 @@ ANITAB.org New York and Bloomberg Women in Technology (BWIT) invite you for a pa
 
 ## CONFERENCES 
 
-* [12th Annual Machine Learning Symposium](https://github.com/WiMLDS/conferences/blob/master/2018/2018_03_09_ml_symposium.md) (New York Academy of Sciences) Mar 9, 2018  
+### [12th Annual Machine Learning Symposium](https://github.com/WiMLDS/conferences/blob/master/2018/2018_03_09_ml_symposium.md) (New York Academy of Sciences) Mar 9, 2018  
 Abstract submissions are invited for consideration for ten short "Spotlight Talks" as well as presentation in a **poster session**. For complete submission instructions, please visit our online portal. The deadline for abstract submission is **January 19, 2018.**
 
-* Our running [list of conferences](https://github.com/WiMLDS/conferences) is available on GitHub.
+### More Conferences
+Our running [list of conferences](https://github.com/WiMLDS/conferences) is available on GitHub.
 
 ## JOBS 
 

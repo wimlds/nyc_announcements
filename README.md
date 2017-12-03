@@ -1,2 +1,1 @@
-# nyc_announcements
-WiMLDS NYC Meetup Group Announcements
+# WiMLDS NYC Meetup Group Newsletters

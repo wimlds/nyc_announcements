@@ -14,15 +14,14 @@ Our [Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct
 ### [Diversity of Backgrounds: A Career Transition into Engineering](https://www.bloomberg.com/event-registration/?id=72909), Tues Dec 5 at 6 PM
 ANITAB.org New York and Bloomberg Women in Technology (BWIT) invite you for a panel discussion in which five software engineers from Bloomberg share personal stories about their transition into the tech industry, as well as the unique value they bring from their professional journeys!  
 
-Registration is required to attend the event.  
 
 ## BLOGS 
-[Anna Willoughby](https://www.linkedin.com/in/anna-willoughby/), by generous support of [PLOTCON](https://plotcon.plot.ly/), attended the Plotly in R Masterclass.  Check out her [blog](http://wimlds.org/anna-willoughby-plotcon-2017-plotly-masterclass/)!
+[Anna Willoughby](https://www.linkedin.com/in/anna-willoughby/), by generous support of [PLOTCON](https://plotcon.plot.ly/), attended the Plotly in R Masterclass.  Check out her [blog](http://wimlds.org/anna-willoughby-plotcon-2017-plotly-masterclass/) which include her plots and links to resources!
 
 
 ## CONFERENCES 
 
-* [12th Annual Machine Learning Symposium](https://github.com/WiMLDS/conferences/blob/master/2018/2018_03_09_ml_symposium.md) (New York Academy of Sciences) March 9, 2018  
+* [12th Annual Machine Learning Symposium](https://github.com/WiMLDS/conferences/blob/master/2018/2018_03_09_ml_symposium.md) (New York Academy of Sciences) Mar 9, 2018  
 Abstract submissions are invited for consideration for ten short "Spotlight Talks" as well as presentation in a **poster session**. For complete submission instructions, please visit our online portal. The deadline for abstract submission is **January 19, 2018.**
 
 * Our running [list of conferences](https://github.com/WiMLDS/conferences) is available on GitHub.

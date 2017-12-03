@@ -18,7 +18,7 @@ We have a Slack team for female and non-binary members of WiMLDS.  If you would 
 
 ## CONFERENCES
 
-* [12th Annual Machine Learning Symposium](https://github.com/WiMLDS/conferences/blob/master/2018/2018_03_09_ml_symposium.md) (New York Academy of Sciences) 
+* [12th Annual Machine Learning Symposium](https://github.com/WiMLDS/conferences/blob/master/2018/2018_03_09_ml_symposium.md) (New York Academy of Sciences) March 9, 2018
 * Our running [list of conferences](https://github.com/WiMLDS/conferences) is available on GitHub.
 
 ## JOBS

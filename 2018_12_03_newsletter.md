@@ -11,10 +11,10 @@ Our [Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct
 ---
 
 ## UPCOMING EVENTS
+### [Diversity of Backgrounds: A Career Transition into Engineering](https://www.bloomberg.com/event-registration/?id=72909), Tues Dec 5 at 6 PM
 ANITAB.org New York and Bloomberg Women in Technology (BWIT) invite you for a panel discussion in which five software engineers from Bloomberg share personal stories about their transition into the tech industry, as well as the unique value they bring from their professional journeys!  
 
-Register here for event:  [Diversity of Backgrounds: A Career Transition into Engineering](https://www.bloomberg.com/event-registration/?id=72909), Tues Dec 5 at 6 PM
-
+Registration is required to attend the event.  
 
 ## BLOGS 
 [Anna Willoughby](https://www.linkedin.com/in/anna-willoughby/), by generous support of [PLOTCON](https://plotcon.plot.ly/), attended the Plotly in R Masterclass.  Check out her [blog](http://wimlds.org/anna-willoughby-plotcon-2017-plotly-masterclass/)!

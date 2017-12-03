@@ -44,3 +44,7 @@ The Svalbard Global Seed Vault's set of details on donated seeds. Check out the 
 ## SLACK
 We have a Slack team for female and non-binary members of WiMLDS.  If you would like to join and connect, send an email to slack@wimlds.org
 
+## WiMLDS Website
+For more information, visit our website at:  http://wimlds.org
+
+

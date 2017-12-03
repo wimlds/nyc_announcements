@@ -1,3 +1,5 @@
+![wimlds](images/Logo-Blue-reduced.png)  
+
 # WiMLDS NYC:  December 2017 Newsletter
 
 ## OUR MISSION

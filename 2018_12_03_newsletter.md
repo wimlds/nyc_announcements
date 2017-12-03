@@ -28,8 +28,14 @@ Abstract submissions are invited for consideration for ten short "Spotlight Talk
 ## JOBS
 
 * [Assistant Professor in Statistics with Emphasis on Big Data](http://wimlds.org/job/simoin-fraser-university-2-assistant-professor-in-statistics-with-emphasis-on-big-data/), Simon Frasier University (Vancouver)
+
 * For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
 
 
 ## ENIGMA FEATURED DATASET
+On behalf of the [Between Two Rows](https://us5.campaign-archive.com/home/?u=04aa10cf99e0998bd8e69a109&id=e53dcad000) newsletter from [Enigma](https://www.enigma.com):
+The Svalbard Global Seed Vault's set of details on donated seeds. Check out the [source](https://www.nordgen.org/sgsv/index.php?page=sgsv_information_list) and the [data](https://public.enigma.com/datasets/svalbard-global-seed-vault-seed-samples/a44eb598-e372-4385-af38-d31606f27b19). The vault is nicknamed the "Doomsday Vault" and the dataset includes genus name, donation date and number of seeds in the collection. 
+
+![seeds](images/seeds001.png)  
+
 

@@ -11,7 +11,7 @@ Our [Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct
 ## UPCOMING EVENTS :red_circle:
 ANITAB.org New York and Bloomberg Women in Technology (BWIT) invite you for a panel discussion in which five software engineers from Bloomberg share personal stories about their transition into the tech industry, as well as the unique value they bring from their professional journeys!  
 
-[Diversity of Backgrounds: A Career Transition into Engineering](https://www.bloomberg.com/event-registration/?id=72909)  
+Register here for event:  [Diversity of Backgrounds: A Career Transition into Engineering](https://www.bloomberg.com/event-registration/?id=72909), Tues Dec 5 at 6 PM
 
 
 ## BLOGS :red_circle:

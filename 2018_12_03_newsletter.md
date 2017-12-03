@@ -17,8 +17,7 @@ Register here for event:  [Diversity of Backgrounds: A Career Transition into En
 
 
 ## BLOGS 
-[Anna Willoughby](https://www.linkedin.com/in/anna-willoughby/), by generous support of [PLOTCON](https://plotcon.plot.ly/), attended the 
-attended the Plotly in R Masterclass.  Check out her [blog](http://wimlds.org/anna-willoughby-plotcon-2017-plotly-masterclass/)!
+[Anna Willoughby](https://www.linkedin.com/in/anna-willoughby/), by generous support of [PLOTCON](https://plotcon.plot.ly/), attended the Plotly in R Masterclass.  Check out her [blog](http://wimlds.org/anna-willoughby-plotcon-2017-plotly-masterclass/)!
 
 
 ## CONFERENCES 

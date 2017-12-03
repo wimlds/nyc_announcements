@@ -47,7 +47,7 @@ We have a Slack team for female and non-binary members of WiMLDS.  If you would 
 ## WiMLDS Website
 For more information, visit our website at:  http://wimlds.org
 
-## WiMLDS Meetup Page
+## WiMLDS NYC Meetup
 Our meetup page:  https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/
 
 

@@ -6,7 +6,7 @@
 
 WiMLDS's mission is to support and promote women who are practicing, studying or interested in the fields of machine learning and data science.  We create opportunities for women to engage in technical and professional conversations in a positive, supportive environment by hosting talks by prominent data scientists, technical workshops, networking events and hackathons.  We are inclusive to anyone who supports our cause regardless of gender or technical background.  However, in support of our mission, priority for certain events and opportunities will be given to women.  
 
-Our [Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct) is available online.
+Our [Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct) is available online and applies to all our spaces, both online and off.
 
 ---
 

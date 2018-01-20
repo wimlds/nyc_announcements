@@ -47,17 +47,18 @@ Transparency International ranks countries annually according to their perceived
  
 
 ---
+## COMMUNICATIONS
 
-## WiMLDS NYC Meetup
+### WiMLDS NYC Meetup
 Our meetup page:  https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/
 
-## SLACK
+### SLACK
 We have a Slack team for female and non-binary members of WiMLDS (all chapters for USA, Africa, Europe and Asia).  If you would like to join and connect, send an email to slack@wimlds.org
 
-## WiMLDS Website
+### WiMLDS Website
 For more information, visit our website at:  http://wimlds.org
 
-## Contact Us
+### Contact Us
 Email us at nyc@wimlds.org or complete this [online request form](http://wimlds.org/requests/)
 
 

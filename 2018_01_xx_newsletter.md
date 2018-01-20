@@ -17,8 +17,7 @@ Our **[Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-condu
 ANITAB.org New York and Bloomberg Women in Technology (BWIT) invite you for a panel discussion in which five software engineers from Bloomberg share personal stories about their transition into the tech industry, as well as the unique value they bring from their professional journeys!  
 
 
-## BLOGS 
-[Anna Willoughby](https://www.linkedin.com/in/anna-willoughby/), by generous support of [PLOTCON](https://plotcon.plot.ly/), attended the Plotly in R Masterclass.  Check out her [blog](http://wimlds.org/anna-willoughby-plotcon-2017-plotly-masterclass/) which include her plots and links to resources!
+
 
 
 ## CONFERENCES 
@@ -29,13 +28,23 @@ Abstract submissions are invited for consideration for ten short "Spotlight Talk
 ### More Conferences
 Our running [list of conferences](https://github.com/WiMLDS/conferences) is available on GitHub.
 
+---
 ## JOBS 
 
-* [Assistant Professor in Statistics with Emphasis on Big Data](http://wimlds.org/job/simoin-fraser-university-2-assistant-professor-in-statistics-with-emphasis-on-big-data/), Simon Frasier University (Vancouver)
+* [Senior Data Scientist](http://wimlds.org/job/bloomberg-lp-new-york-2-senior-data-scientist/), Bloomberg (NYC)
+
+* [Data Science Intern](http://wimlds.org/job/buzzfeed-new-york-los-angeles-6-data-science-intern/), Buzzfeed (NYC / Los Angeles)
+
+* [Machine Learning Engineer, Text-to-Speech](http://wimlds.org/job/aja-la-studios-london-uk-2-machine-learning-engineer-text-to-speech/), AJA.LA STUDIOS (London)
+
+* [Machine Learning Engineer, Speech Recognition](http://wimlds.org/job/aja-la-studios-london-uk-2-machine-learning-engineer-speech-recognition/), AJA.LA STUDIOS (London)
+
+* [Data Scientist](http://wimlds.org/job/wikimedia-foundation-2-data-scientist/), Wikimedia (San Francisco / remote)
+
 
 * For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
 
-
+---
 ## ENIGMA FEATURED DATASET 
 On behalf of the [Between Two Rows](https://us5.campaign-archive.com/home/?u=04aa10cf99e0998bd8e69a109&id=e53dcad000) newsletter from [Enigma](https://www.enigma.com):  
 

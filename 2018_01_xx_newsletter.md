@@ -36,8 +36,12 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
 
 ## ENIGMA FEATURED DATASET 
 On behalf of the [Between Two Rows](https://us5.campaign-archive.com/home/?u=04aa10cf99e0998bd8e69a109&id=e53dcad000) newsletter from [Enigma](https://www.enigma.com):  
-The Svalbard Global Seed Vault's set of details on donated seeds. Check out the [source](https://www.nordgen.org/sgsv/index.php?page=sgsv_information_list) and the [data](https://public.enigma.com/datasets/svalbard-global-seed-vault-seed-samples/a44eb598-e372-4385-af38-d31606f27b19). The vault is nicknamed the "Doomsday Vault" and the dataset includes genus name, donation date and number of seeds in the collection.
-![seeds](images/seeds-01.png)  
+
+Transparency International ranks countries annually according to their perceived level of corruption. They use data sources ranging from the Economist Intelligence Unit, and the World Bank - and the results would be quite interesting to combine with signal from social or media mentions. Check out the [source](https://www.transparency.org) and the [data](https://public.enigma.com/datasets/transparency-international-corruption-perceptions-index-2016/91e2b23f-a37d-42c0-be3e-73b5e1ae49e6).
+![corruption](images/g20_corruption_v2-01)  
+
+
+ 
 
 ---
 

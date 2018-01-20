@@ -6,6 +6,8 @@
 
 WiMLDS's mission is to support and promote women who are practicing, studying or interested in the fields of machine learning and data science.  We create opportunities for women to engage in technical and professional conversations in a positive, supportive environment by hosting talks by prominent data scientists, technical workshops, networking events and hackathons.  **We are inclusive to anyone who supports our cause regardless of gender or technical background.  However, in support of our mission, priority for certain events and opportunities will be given to women.**  
 
+## OUR CODE OF CONDUCT
+
 Our **[Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct)** is available online and applies to all our spaces, both online and off.
 
 ---
@@ -38,7 +40,8 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
 On behalf of the [Between Two Rows](https://us5.campaign-archive.com/home/?u=04aa10cf99e0998bd8e69a109&id=e53dcad000) newsletter from [Enigma](https://www.enigma.com):  
 
 Transparency International ranks countries annually according to their perceived level of corruption. They use data sources ranging from the Economist Intelligence Unit, and the World Bank - and the results would be quite interesting to combine with signal from social or media mentions. Check out the [source](https://www.transparency.org) and the [data](https://public.enigma.com/datasets/transparency-international-corruption-perceptions-index-2016/91e2b23f-a37d-42c0-be3e-73b5e1ae49e6).
-![corruption](images/g20_corruption_v2-01)  
+
+![corruption](images/g20_corruption_v2-01.png)  
 
 
  

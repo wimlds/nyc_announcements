@@ -25,6 +25,12 @@ ANITAB.org New York and Bloomberg Women in Technology (BWIT) invite you for a pa
 ### [12th Annual Machine Learning Symposium](https://github.com/WiMLDS/conferences/blob/master/2018/2018_03_09_ml_symposium.md) (New York Academy of Sciences) Mar 9, 2018  
 Abstract submissions are invited for consideration for ten short "Spotlight Talks" as well as presentation in a **poster session**. For complete submission instructions, please visit our online portal. The deadline for abstract submission is **January 19, 2018.**
 
+### [OSCON 2018](https://github.com/WiMLDS/conferences/blob/master/2018/2018_07_16_oscon.md)
+* OSCON = Open Source Conference
+* July 16-19 in Portland, Oregon
+* call for speakers is open 
+* The deadline for submissions is **January 30, 2018.**
+
 ### More Conferences
 Our running [list of conferences](https://github.com/WiMLDS/conferences) is available on GitHub.
 

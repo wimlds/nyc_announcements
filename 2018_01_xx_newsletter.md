@@ -42,7 +42,7 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
 * [Data Scientist](http://wimlds.org/job/wikimedia-foundation-2-data-scientist/), Wikimedia (San Francisco / remote)
 
 
-* For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
+For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
 
 ---
 ## ENIGMA FEATURED DATASET 

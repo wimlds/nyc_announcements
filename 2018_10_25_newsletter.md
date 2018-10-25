@@ -70,10 +70,10 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
  
 ## Jobs
 
-#### NY Times is hiring!  There are numerous open positions for the [Data & Insights team]
-- (https://nytimes.wd5.myworkdayjobs.com/DataInsights), as well as [Tech](https://nytimes.wd5.myworkdayjobs.com/Tech).
-	- the contact for engineering is: data-engineering-recruiting@nytimes.com
-	- the contact for data is: jennifer.kanjana@nytimes or shane.murray@nytimes.com
+#### NY Times is hiring!  
+There are numerous open positions for the [Data & Insights team](https://nytimes.wd5.myworkdayjobs.com/DataInsights), as well as [Tech](https://nytimes.wd5.myworkdayjobs.com/Tech):  
+- the contact for engineering is: data-engineering-recruiting@nytimes.com
+- the contact for data is: jennifer.kanjana@nytimes or shane.murray@nytimes.com
 
 #### [Senior Data Scientist, Healthcare Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/senior-data-scientist-healthcare-analytics-delivery-new-ventures-4020553002?gh_src=b6b5ef9b2), McKinsey
     - Contact:  Gigi Genkova, gigi_genkova@mckinsey.com

@@ -1,8 +1,9 @@
 
 <p><img src="http://wimlds.org/wp-content/uploads/2018/10/blue_logo_full.jpg" border="50" alt="wimlds" width="90%" height="90%" /></p>
 
-<hr size="20" width="900" align="center" color="blue">
 
+<p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
+ 
 # WiMLDS NYC:  October 2018 Newsletter (Part 3)
 <hr size="20" width="900" align="center" color="blue">
 
@@ -12,8 +13,9 @@ The NYC chapter was founded 4 years ago in 2014 (the second chapter after Bay Ar
 
 Here a summary of WiMLDS:  [Overview of WiMLDS Chapters](https://reshamas.github.io/overview-of-wimlds-chapters/)
 
-<hr size="20" width="900" align="center" color="blue">
 
+<p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
+ 
 ## Code of Conduct
 Our **[Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct)** is available online and applies to all our spaces, both online and off.
 <hr size="20" width="900" align="center" color="blue">
@@ -36,8 +38,10 @@ Our **[Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-condu
 Our running [list of conferences](https://github.com/WiMLDS/conferences) is available on GitHub.
 
 
-<hr size="20" width="900" align="center" color="blue">
+ 
 
+<p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
+ 
 ## JOBS 
 
 * [Senior Data Scientist, Healthcare Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/senior-data-scientist-healthcare-analytics-delivery-new-ventures-4020553002?gh_src=b6b5ef9b2), McKinsey
@@ -52,8 +56,7 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
 For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
  
 
-<hr size="20" width="900" align="center" color="blue">
-
+ 
 <p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
  
 

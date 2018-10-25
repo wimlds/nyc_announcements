@@ -37,6 +37,7 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
 
 
 <hr size="20" width="900" align="center" color="blue">
+
 ## JOBS 
 
 * [Senior Data Scientist, Healthcare Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/senior-data-scientist-healthcare-analytics-delivery-new-ventures-4020553002?gh_src=b6b5ef9b2), McKinsey

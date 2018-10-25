@@ -53,10 +53,11 @@ This is the only conference that combines technical depth and breadth with unpar
 - Distributed systems  
 - and more
 
+<p>
 Register now for Software Architecture NY before Best Price ends November 2. Save an extra 20% on your Gold, Silver, or Bronze pass using code UGWMLDS. 
 
 See the full program and register today:  http://www.oreilly.com/pub/cpc/169656
-
+</p>
 
 
 

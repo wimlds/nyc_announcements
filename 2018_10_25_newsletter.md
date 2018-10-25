@@ -54,6 +54,9 @@ For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
 
 <hr size="20" width="900" align="center" color="blue">
 
+<p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
+ 
+
 ## Connect With Us
 
 - **MESSAGE BOARD**

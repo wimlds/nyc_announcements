@@ -104,7 +104,10 @@ For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
     - Follow us on NYC Twitter:  [@WiMLDS_NYC](https://twitter.com/WiMLDS_NYC)
     
 ### Email
-    - Email us at nyc@wimlds.org
+    - Email us at nyc@wimlds.org    
+<hr> 
+<hr> 
+    
     
     
 

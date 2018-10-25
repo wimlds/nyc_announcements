@@ -5,7 +5,7 @@
 <p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
  
 # WiMLDS NYC:  October 2018 Newsletter (Part 3)
-<hr size="20" width="900" align="center" color="blue">
+<p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
 
 ## NYC WiMLDS:  Happy 4th Birthday! :balloon:
 

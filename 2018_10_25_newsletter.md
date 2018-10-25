@@ -2,20 +2,20 @@
 <p><img src="http://wimlds.org/wp-content/uploads/2018/10/blue_logo_full.jpg" border="50" alt="wimlds" width="90%" height="90%" /></p>
 
 
-<p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p> 
- 
-## Code of Conduct
-Our **[Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct)** is available online and applies to all our spaces, both online and off.
-
-<p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
+<hr> 
 
 # WiMLDS NYC:  October 2018 Newsletter (Part 3)
 
 <p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
 
+## Code of Conduct
+Our **[Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct)** is available online and applies to all our spaces, both online and off.
+
+<hr>
+
 ## Announcements
 
-### NYC WiMLDS:  Happy 4th Birthday! :balloon:
+### NYC WiMLDS:  Happy 4th Birthday!
 
 The NYC chapter was founded 4 years ago in 2014 (the second chapter after Bay Area).  We now have 3700+ members, and we have hosted nearly 70 events. 
 
@@ -29,8 +29,7 @@ Thank you to Will Lyons of Neo4j and NY Times for hosting us.  It was a fun and 
 
 <p><img src="http://wimlds.org/wp-content/uploads/2018/10/nytimes.jpg" border="50" alt="wimlds" width="90%" height="90%" /></p>
  
-<p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
-
+<hr>
 
 ## Conferences
 
@@ -67,7 +66,7 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
 
  
 
-<p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
+<hr>
  
 ## Jobs
 
@@ -89,17 +88,19 @@ For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
  
 
  
-<p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
+<hr>
  
 
 ## Connect With Us
 
-- **MESSAGE BOARD**
+#### Message Board
     - We now have a [Community Message Board](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/messages/boards/forum/30530934) where our members can post topics that would be of interest (example:  events, discounts).  To receive emails for that board, subscribe to it manually.  
-- **SLACK**
+
+#### Slack
     - We have a global Slack team for female and gender minority members of WiMLDS.  If you would like to join and connect, send an email request to slack@wimlds.org with a brief note.  
-- **SOCIAL MEDIA**
+
+#### Social Media
     - Follow us on Twitter:  [@wimlds](https://twitter.com/wimlds)
     - Follow us on NYC Twitter:  [@WiMLDS_NYC](https://twitter.com/WiMLDS_NYC)
-- **EMAIL**
+#### Email
     - Email us at nyc@wimlds.org

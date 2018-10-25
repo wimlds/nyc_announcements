@@ -106,8 +106,5 @@ For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
 ### Email
     - Email us at nyc@wimlds.org    
 <hr> 
-
-    
-    
-    
-
+<hr> 
+<hr> 

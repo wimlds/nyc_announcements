@@ -34,6 +34,17 @@ Thank you to Will Lyons of Neo4j and NY Times for hosting us.  It was a fun and 
 
 ## CONFERENCES 
 
+### Data Engineering Conference | Nov 8-9 
+We have partnered with @DataEngConf to provide our community with a special offer for the DataEngConf New York '18 No Bullshit Data Event on November 8 - 9th, at Columbia University in New York City. Register using code “NYCData18” to receive a $160 discount off event tickets. DataEngConf is the first community powered data-platforms, -science, and -analytics event for software engineers, data scientists, CTOs, and technical founders who want to discover tools & insights to build products.
+
+DataEngConf is not the standard watered-down “big data conference” you might have attended previously - instead they are built and run by software engineers, developers and data geeks. They have 4 dedicated tracks this year: Data Engineering, Data Science, Data & AI and our brand new Hero Engineering. Join geeks from across Europe, the US and Asia within companies like Facebook, Salesforce, Netflix, WeWork, MIT, Beeswax, Lyft, Stitch Data, Datadog, Segment, Starburst, Datacoral, Columbia University, Capital One, TapRecruit, Figure Eight, Dia&Co with many more to be announced. 
+
+DataEngConf is committed to diversity at their events, and try to empower geeks across the globe in connecting, inspiring, learning or creating networking opportunities, mentorship & training programs.
+
+Register now for our **$160 discount**: http://bit.ly/NYC-Tickets18 using code: “NYCData18”
+
+
+
 ### O'Reilly Software Architecture Conference | February 3–6, 2019 | New York
 
 This is the only conference that combines technical depth and breadth with unparalleled networking opportunities. The program dives deep into complex topics across all areas of software architecture and explores new techniques, proven best practices, and technical skills from industry leaders, with an emphasis on:  
@@ -51,16 +62,6 @@ See the full program and register today:  http://www.oreilly.com/pub/cpc/169656
 
 
 
-### [OSCON 2018](https://github.com/WiMLDS/conferences/blob/master/2018/2018_07_16_oscon.md)
-* OSCON = Open Source Conference
-* July 16-19 in Portland, Oregon
-* call for speakers is open 
-* The deadline for submissions is **January 30**
-
-### [O'Reilly AI 2018](https://github.com/WiMLDS/conferences/blob/master/2018/2018_07_16_oscon.md)
-* Artificial Intelligence
-* Apr 29–May 2 in NYC
-* Discount:  Save 20% on most passes with discount code **UGWMLDS**. Early price ends **February 2**. 
 
 ### More Conferences
 Our running [list of conferences](https://github.com/WiMLDS/conferences) is available on GitHub.

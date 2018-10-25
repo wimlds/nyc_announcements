@@ -1,9 +1,3 @@
-
-<p><img src="http://wimlds.org/wp-content/uploads/2018/10/blue_logo_full.jpg" border="50" alt="wimlds" width="50%" height="50%" /></p>
-
-
-<hr> 
-
 # WiMLDS NYC:  October 2018 Newsletter (Part 3)
 
 <hr> 
@@ -27,9 +21,6 @@ We often need help with task such as: updating our website, greeting attendees a
 ### Neo4j at NY Times --> Thank you!
 Thank you to Will Lyons of Neo4j and NY Times for hosting us.  It was a fun and informative technical workshop, with a full house!
 
-<p>
-<p><img src="http://wimlds.org/wp-content/uploads/2018/10/nytimes.jpg" border="50" alt="wimlds" width="67%" height="67%" /></p>
-</p>
 
 <hr>
 

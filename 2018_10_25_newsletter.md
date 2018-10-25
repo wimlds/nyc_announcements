@@ -2,6 +2,9 @@
 
 ![wimlds](images/blue_logo_full.jpg)  
 
+
+<hr size="10" width="200" align="center" color="blue">
+
 # WiMLDS NYC:  October 2018 Newsletter (Part 2)
 
 ## OUR MISSION

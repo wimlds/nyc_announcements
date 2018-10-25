@@ -67,7 +67,7 @@ For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
 - **SLACK**
     - We have a global Slack team for female and gender minority members of WiMLDS.  If you would like to join and connect, send an email request to slack@wimlds.org with a brief note.  
 - **SOCIAL MEDIA**
-    - Follow us on Twitter:  @wimlds
-    - Follow us on NYC Twitter:  WiMLDS_NYC
+    - Follow us on Twitter:  [@wimlds](https://twitter.com/wimlds)
+    - Follow us on NYC Twitter:  [@WiMLDS_NYC](https://twitter.com/WiMLDS_NYC)
 - **EMAIL**
     - Email us at nyc@wimlds.org

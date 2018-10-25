@@ -70,7 +70,7 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
  
 ## Jobs
 
-#### NY Times is hiring!  
+#### NY Times  
 There are numerous open positions for the [Data & Insights team](https://nytimes.wd5.myworkdayjobs.com/DataInsights), as well as [Tech](https://nytimes.wd5.myworkdayjobs.com/Tech):  
 - the contact for engineering is: data-engineering-recruiting@nytimes.com
 - the contact for data is: jennifer.kanjana@nytimes or shane.murray@nytimes.com
@@ -106,7 +106,7 @@ For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
 ### Email
     - Email us at nyc@wimlds.org    
 <hr> 
-<hr> 
+
     
     
     

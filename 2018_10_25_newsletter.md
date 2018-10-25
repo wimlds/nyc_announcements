@@ -34,6 +34,23 @@ Thank you to Will Lyons of Neo4j and NY Times for hosting us.  It was a fun and 
 
 ## CONFERENCES 
 
+### O'Reilly Software Architecture Conference | February 3–6, 2019 | New York
+
+This is the only conference that combines technical depth and breadth with unparalleled networking opportunities. The program dives deep into complex topics across all areas of software architecture and explores new techniques, proven best practices, and technical skills from industry leaders, with an emphasis on:  
+- Microservices
+- Cloud native development and deployment
+- Application architecture
+- Enterprise architecture
+- Leadership and management
+- Distributed systems  
+- and more
+
+Register now for Software Architecture NY before Best Price ends November 2. Save an extra 20% on your Gold, Silver, or Bronze pass using code UGWMLDS. 
+
+See the full program and register today:  http://www.oreilly.com/pub/cpc/169656
+
+
+
 ### [OSCON 2018](https://github.com/WiMLDS/conferences/blob/master/2018/2018_07_16_oscon.md)
 * OSCON = Open Source Conference
 * July 16-19 in Portland, Oregon

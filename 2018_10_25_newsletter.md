@@ -24,8 +24,11 @@ Here a summary of WiMLDS:  [Overview of WiMLDS Chapters](https://reshamas.github
 ### Committee Members
 We often need help with task such as: updating our website, greeting attendees at our events, updating spreadsheets and more.  If you are interested, please complete this brief [Committee Member Form](https://goo.gl/forms/Q0mZCmJpYknd60b22).  Men are welcome to join as committee members.
 
+### Neo4j at NY Times --> Thank you!
+Thank you to Will Lyons of Neo4j and NY Times for hosting us.  It was a fun and informative technical workshop, with a full house!
 
-
+<p><img src="http://wimlds.org/wp-content/uploads/2018/10/nytimes.jpg" border="50" alt="wimlds" width="90%" height="90%" /></p>
+ 
 <p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
 
 

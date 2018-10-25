@@ -6,7 +6,7 @@
 
 # WiMLDS NYC:  October 2018 Newsletter (Part 3)
 
-<p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
+<hr> 
 
 ## Code of Conduct
 Our **[Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct)** is available online and applies to all our spaces, both online and off.
@@ -105,3 +105,6 @@ For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
     
 ### Email
     - Email us at nyc@wimlds.org
+    
+    
+

@@ -37,12 +37,10 @@ Thank you to Will Lyons of Neo4j and NY Times for hosting us.  It was a fun and 
 
 ### Data Engineering Conference | Nov 8-9 | @Columbia University
 
-DataEngConf is the first community powered data-platforms, -science, and -analytics event for software engineers, data scientists, CTOs, and technical founders who want to discover tools & insights to build products.
-
-Our friends @DataEngConf have provided us with a special offer for DataEngConf NYC'18 on Nov 8-9th.  Built & run by software engineers, developers & data geeks this is not your standard conference. 
-
+DataEngConf is the first community powered data-platforms, -science, and -analytics event for software engineers, data scientists, CTOs, and technical founders who want to discover tools & insights to build products.  Our friends @DataEngConf have provided us with a special offer for DataEngConf NYC'18 on Nov 8-9th.  Built & run by software engineers, developers & data geeks this is not your standard conference. 
+<p>
 Register now for our **$160 discount**: http://bit.ly/NYC-Tickets18 using code: “NYCData18”
-
+</p>
 
 ### O'Reilly Software Architecture Conference | February 3–6, 2019 | New York
 

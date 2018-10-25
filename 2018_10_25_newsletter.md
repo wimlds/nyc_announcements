@@ -1,9 +1,10 @@
 
-<p><img src="http://wimlds.org/wp-content/uploads/2018/10/blue_logo_full.jpg" border="50" alt="wimlds" width="50%" height="50%" /></p>
+<p><img src="http://wimlds.org/wp-content/uploads/2018/10/blue_logo_full.jpg" border="50" alt="wimlds" width="90%" height="90%" /></p>
 
-<hr size="10" width="200" align="center" color="blue">
+<hr size="20" width="900" align="center" color="blue">
 
 # WiMLDS NYC:  October 2018 Newsletter (Part 3)
+<hr size="20" width="900" align="center" color="blue">
 
 ## NYC WiMLDS:  Happy 4th Birthday! :balloon:
 
@@ -11,8 +12,11 @@ The NYC chapter was founded 4 years ago in 2014 (the second chapter after Bay Ar
 
 Here a summary of WiMLDS:  [Overview of WiMLDS Chapters](https://reshamas.github.io/overview-of-wimlds-chapters/)
 
+<hr size="20" width="900" align="center" color="blue">
+
 ## Code of Conduct
 Our **[Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct)** is available online and applies to all our spaces, both online and off.
+<hr size="20" width="900" align="center" color="blue">
 
 
 ## CONFERENCES 
@@ -35,7 +39,7 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
 ## JOBS 
 
 * [Senior Data Scientist, Healthcare Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/senior-data-scientist-healthcare-analytics-delivery-new-ventures-4020553002?gh_src=b6b5ef9b2)
- - Contact:  Gigi Genkova, gigi_genkova@mckinsey.com
+    - Contact:  Gigi Genkova, gigi_genkova@mckinsey.com
 
 * Scientific Programmer, Laboratory for Atmospheric and Space Physics at CU Boulder (Boulder, Colorado)
 

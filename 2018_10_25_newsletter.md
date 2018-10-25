@@ -70,19 +70,19 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
  
 ## Jobs
 
-* **NY Times** is hiring!  There are numerous open positions for the [Data & Insights team](https://nytimes.wd5.myworkdayjobs.com/DataInsights), as well as [Tech](https://nytimes.wd5.myworkdayjobs.com/Tech).
+#### NY Times is hiring!  There are numerous open positions for the [Data & Insights team]
+- (https://nytimes.wd5.myworkdayjobs.com/DataInsights), as well as [Tech](https://nytimes.wd5.myworkdayjobs.com/Tech).
 	- the contact for engineering is: data-engineering-recruiting@nytimes.com
 	- the contact for data is: jennifer.kanjana@nytimes or shane.murray@nytimes.com
 
-
-* [Senior Data Scientist, Healthcare Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/senior-data-scientist-healthcare-analytics-delivery-new-ventures-4020553002?gh_src=b6b5ef9b2), McKinsey
+#### [Senior Data Scientist, Healthcare Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/senior-data-scientist-healthcare-analytics-delivery-new-ventures-4020553002?gh_src=b6b5ef9b2), McKinsey
     - Contact:  Gigi Genkova, gigi_genkova@mckinsey.com
 
-* Scientific Programmer, Laboratory for Atmospheric and Space Physics at CU Boulder (Boulder, Colorado)
+#### Scientific Programmer, Laboratory for Atmospheric and Space Physics at CU Boulder (Boulder, Colorado)
 
-* Data Scientist Associate, Workforce Analytics, JPMorgan Chase & Co (Jersey City, NJ)
+#### Data Scientist Associate, Workforce Analytics, JPMorgan Chase & Co (Jersey City, NJ)
 
-* Principal Data Scientist, Bayer Pharma (Whippany, NJ)
+#### Principal Data Scientist, Bayer Pharma (Whippany, NJ)
 
 For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
  
@@ -93,14 +93,15 @@ For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
 
 ## Connect With Us
 
-#### Message Board
+### Message Board
     - We now have a [Community Message Board](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/messages/boards/forum/30530934) where our members can post topics that would be of interest (example:  events, discounts).  To receive emails for that board, subscribe to it manually.  
 
-#### Slack
+### Slack
     - We have a global Slack team for female and gender minority members of WiMLDS.  If you would like to join and connect, send an email request to slack@wimlds.org with a brief note.  
 
-#### Social Media
+### Social Media
     - Follow us on Twitter:  [@wimlds](https://twitter.com/wimlds)
     - Follow us on NYC Twitter:  [@WiMLDS_NYC](https://twitter.com/WiMLDS_NYC)
-#### Email
+    
+### Email
     - Email us at nyc@wimlds.org

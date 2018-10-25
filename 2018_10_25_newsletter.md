@@ -1,6 +1,6 @@
 
 
-![wimlds](images/Logo-Blue-reduced.png)  
+![wimlds](images/blue_log_full.jpg)  
 
 # WiMLDS NYC:  October 2018 Newsletter (Part 2)
 

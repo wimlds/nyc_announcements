@@ -32,7 +32,7 @@ Thank you to Will Lyons of Neo4j and NY Times for hosting us.  It was a fun and 
 <p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
 
 
-## CONFERENCES 
+## Conferences
 
 ### Data Engineering Conference | Nov 8-9 | @Columbia University
 
@@ -69,7 +69,7 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
 
 <p><img src="http://wimlds.org/wp-content/uploads/2018/10/line_teal.png" border="50" alt="wimlds" width="90%" height="90%" /></p>
  
-## JOBS 
+## Jobs
 
 * **NY Times** is hiring!  There are numerous open positions for the [Data & Insights team](https://nytimes.wd5.myworkdayjobs.com/DataInsights), as well as [Tech](https://nytimes.wd5.myworkdayjobs.com/Tech).
 	- the contact for engineering is: data-engineering-recruiting@nytimes.com

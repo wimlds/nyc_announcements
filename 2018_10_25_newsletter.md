@@ -35,10 +35,11 @@ Our **[Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-condu
 ### More Conferences
 Our running [list of conferences](https://github.com/WiMLDS/conferences) is available on GitHub.
 
----
+
+<hr size="20" width="900" align="center" color="blue">
 ## JOBS 
 
-* [Senior Data Scientist, Healthcare Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/senior-data-scientist-healthcare-analytics-delivery-new-ventures-4020553002?gh_src=b6b5ef9b2)
+* [Senior Data Scientist, Healthcare Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/senior-data-scientist-healthcare-analytics-delivery-new-ventures-4020553002?gh_src=b6b5ef9b2), McKinsey
     - Contact:  Gigi Genkova, gigi_genkova@mckinsey.com
 
 * Scientific Programmer, Laboratory for Atmospheric and Space Physics at CU Boulder (Boulder, Colorado)
@@ -48,14 +49,10 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
 * Principal Data Scientist, Bayer Pharma (Whippany, NJ)
 
 For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
-
-
-![corruption](images/g20_corruption_v2-01.png)  
-
-
  
 
----
+<hr size="20" width="900" align="center" color="blue">
+
 ## Connect With Us
 
 - **MESSAGE BOARD**
@@ -65,7 +62,5 @@ For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
 - **SOCIAL MEDIA**
     - Follow us on Twitter:  @wimlds
     - Follow us on NYC Twitter:  WiMLDS_NYC
-    - Join our LinkedIn Group:  WiMLDS
-    - Subscribe on YouTube:  WiMLDS 
 - **EMAIL**
     - Email us at nyc@wimlds.org

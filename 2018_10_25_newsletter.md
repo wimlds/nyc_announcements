@@ -1,4 +1,6 @@
 
+<p><img src="http://wimlds.org/wp-content/uploads/2018/10/blue_logo_full.jpg" border="50" alt="wimlds" width="99%" height="99%" /></p>
+
 
 ![wimlds](images/blue_logo_full.jpg)  
 

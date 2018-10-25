@@ -1,21 +1,19 @@
 
-<p><img src="http://wimlds.org/wp-content/uploads/2018/10/blue_logo_full.jpg" border="50" alt="wimlds" width="99%" height="99%" /></p>
-
-
+<p><img src="http://wimlds.org/wp-content/uploads/2018/10/blue_logo_full.jpg" border="50" alt="wimlds" width="50%" height="50%" /></p>
 
 <hr size="10" width="200" align="center" color="blue">
 
-# WiMLDS NYC:  October 2018 Newsletter (Part 2)
+# WiMLDS NYC:  October 2018 Newsletter (Part 3)
 
-## OUR MISSION
+## NYC WiMLDS:  Happy 4th Birthday! :balloon:
 
-WiMLDS's mission is to support and promote women who are practicing, studying or interested in the fields of machine learning and data science.  We create opportunities for women to engage in technical and professional conversations in a positive, supportive environment by hosting talks by prominent data scientists, technical workshops, networking events and hackathons.  **We are inclusive to anyone who supports our cause regardless of gender or technical background.  However, in support of our mission, priority for certain events and opportunities will be given to women.**  
+The NYC chapter was founded 4 years ago in 2014 (the second chapter after Bay Area).  We now have 3700+ members, and we have hosted nearly 70 events. 
 
-## OUR CODE OF CONDUCT
+Here a summary of WiMLDS:  [Overview of WiMLDS Chapters](https://reshamas.github.io/overview-of-wimlds-chapters/)
 
+## Code of Conduct
 Our **[Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct)** is available online and applies to all our spaces, both online and off.
 
----
 
 ## CONFERENCES 
 
@@ -36,24 +34,17 @@ Our running [list of conferences](https://github.com/WiMLDS/conferences) is avai
 ---
 ## JOBS 
 
-* [Senior Data Scientist](http://wimlds.org/job/bloomberg-lp-new-york-2-senior-data-scientist/), Bloomberg (NYC)
+* [Senior Data Scientist, Healthcare Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/senior-data-scientist-healthcare-analytics-delivery-new-ventures-4020553002?gh_src=b6b5ef9b2)
+ - Contact:  Gigi Genkova, gigi_genkova@mckinsey.com
 
-* [Data Science Intern](http://wimlds.org/job/buzzfeed-new-york-los-angeles-6-data-science-intern/), Buzzfeed (NYC / Los Angeles)
+* Scientific Programmer, Laboratory for Atmospheric and Space Physics at CU Boulder (Boulder, Colorado)
 
-* [Machine Learning Engineer, Text-to-Speech](http://wimlds.org/job/aja-la-studios-london-uk-2-machine-learning-engineer-text-to-speech/), AJA.LA STUDIOS (London)
+* Data Scientist Associate, Workforce Analytics, JPMorgan Chase & Co (Jersey City, NJ)
 
-* [Machine Learning Engineer, Speech Recognition](http://wimlds.org/job/aja-la-studios-london-uk-2-machine-learning-engineer-speech-recognition/), AJA.LA STUDIOS (London)
-
-* [Data Scientist](http://wimlds.org/job/wikimedia-foundation-2-data-scientist/), Wikimedia (San Francisco / remote)
-
+* Principal Data Scientist, Bayer Pharma (Whippany, NJ)
 
 For more job postings, visit our [Job Board](http://wimlds.org/jobs/)
 
----
-## ENIGMA FEATURED DATASET 
-On behalf of the [Between Two Rows](https://us5.campaign-archive.com/home/?u=04aa10cf99e0998bd8e69a109&id=e53dcad000) newsletter from [Enigma](https://www.enigma.com):  
-
-Transparency International ranks countries annually according to their perceived level of corruption. They use data sources ranging from the Economist Intelligence Unit, and the World Bank - and the results would be quite interesting to combine with signal from social or media mentions. Check out the [source](https://www.transparency.org) and the [data](https://public.enigma.com/datasets/transparency-international-corruption-perceptions-index-2016/91e2b23f-a37d-42c0-be3e-73b5e1ae49e6).
 
 ![corruption](images/g20_corruption_v2-01.png)  
 
@@ -61,18 +52,16 @@ Transparency International ranks countries annually according to their perceived
  
 
 ---
-## COMMUNICATIONS
+## Connect With Us
 
-### WiMLDS NYC Meetup
-Our meetup page:  https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/
-
-### SLACK
-We have a Slack team for female and non-binary members of WiMLDS (all chapters for USA, Africa, Europe and Asia).  If you would like to join and connect, send an email to slack@wimlds.org
-
-### WiMLDS Website
-For more information, visit our website at:  http://wimlds.org
-
-### Contact Us
-Email us at nyc@wimlds.org or complete this [online request form](http://wimlds.org/requests/)
-
-
+- **MESSAGE BOARD**
+    - We now have a [Community Message Board](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/messages/boards/forum/30530934) where our members can post topics that would be of interest (example:  events, discounts).  To receive emails for that board, subscribe to it manually.  
+- **SLACK**
+    - We have a global Slack team for female and gender minority members of WiMLDS.  If you would like to join and connect, send an email request to slack@wimlds.org with a brief note.  
+- **SOCIAL MEDIA**
+    - Follow us on Twitter:  @wimlds
+    - Follow us on NYC Twitter:  WiMLDS_NYC
+    - Join our LinkedIn Group:  WiMLDS
+    - Subscribe on YouTube:  WiMLDS 
+- **EMAIL**
+    - Email us at nyc@wimlds.org
